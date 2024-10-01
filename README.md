@@ -28,16 +28,26 @@ ETL Data, Data Analysis, Data Visualization
 
   Use a line chart to simultaneously represent the growth in inventory levels and storage costs during the period 2021-2022.
 
+  ![image](https://github.com/user-attachments/assets/9057624a-0175-4e20-8db2-95654d0bac56)
+
   Inventory levels and storage costs are closely correlated, often fluctuating in the same direction. This indicates that the company is facing significant increases in both inventory levels and storage costs.
 + **Analysis of warehouse import and export flow by product category**:
 
-  *Gearbox*: The import and export volumes of the warehouse fluctuated across the quarters, not       following a stable trend. Both tended to decrease in the last two quarters of 2022. Although inventory increased, the growth rate tended to slow down in the last quarters.
-  
+  *Gearbox*: The import and export volumes of the warehouse fluctuated across the quarters, not following a stable trend. Both tended to decrease in the last two quarters of 2022. Although inventory increased, the growth rate tended to slow down in the last quarters.
+
+  ![image](https://github.com/user-attachments/assets/5f94faa8-5e1f-4703-bec1-06d0dc0600e5)
+
   *Gearmotor*: Regarding inventory levels, there was a general upward trend from Q2/2021 to Q2/2022, followed by a slight decrease at the end of each year. The volumes of products imported and exported also fluctuated, notably with import volumes peaking in Q2/2021 and gradually decreasing thereafter.
   
+  ![image](https://github.com/user-attachments/assets/5dcd210f-aa49-4846-98a5-81fe5f71b276)
+
   *Motor*: In the first quarter of 2022, this product recorded the highest levels of inventory inflow and outflow during the business period. However, these two indicators tend to decrease sharply in the fourth quarter of each year.
-  
+
+  ![image](https://github.com/user-attachments/assets/614e02de-2854-4b05-a642-721493a34c54)
+
   *Inverters*: There was a significant decrease (30%) in both inventory inflow and outflow from Q3 to Q4/2022. This decline may reflect a change in customer demand or an adjustment in the company’s business strategy.
+
+  ![image](https://github.com/user-attachments/assets/19f01579-6c62-49b2-a2d6-50a488096ae4)
 
 + **Featured Products:**:
 
@@ -55,7 +65,7 @@ ETL Data, Data Analysis, Data Visualization
 
   *Motor*: High inventory inflow and outflow with a low inventory rate (17.03%). This reflects good market demand and effective inventory management, indicating that the business strategy aligns well with market needs.
 
-  * *Inverters*: Low inventory inflow but higher outflow than inflow, and no inventory remaining. This indicates that the product is consumed immediately after being stocked, reflecting high market demand for this type of product.
+  *Inverters*: Low inventory inflow but higher outflow than inflow, and no inventory remaining. This indicates that the product is consumed immediately after being stocked, reflecting high market demand for this type of product.
 # Outcomes
 
 + The company may need to reconsider its strategy for Gearbox products, including reducing imports or finding ways to enhance marketing and sales to increase the outflow rate.
